@@ -1,5 +1,5 @@
 # Camvid_neural_net_project
-Object detection university project on Camvid dataset. Contains three different neural network architectures Unet, Segnet and FCN+CRN.
+Object detection university project on Camvid dataset. Contains three different neural network architectures Unet, Segnet and FCN+CRF.
 
 # SSH to olympen
 ssh -X -t username@ssh.edu.liu.se ssh -X olympen1-1xx # xx = 01-17
